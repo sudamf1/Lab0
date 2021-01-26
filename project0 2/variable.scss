@@ -1,0 +1,32 @@
+$color: MidnightBlue;
+
+td {
+  color : $color;
+}
+
+div {
+
+p {
+  text-align : center;
+  color : $color;
+}
+
+ol {
+  color : Indigo;
+  font-weight: bold;
+}
+
+}
+
+%message {
+font-size : 18px;
+font-weight: bold;
+border : 1px solid $color;
+padding: 10px;
+margin: 10px;
+}
+
+.info {
+  @extend %message;
+  background-color: LightGreen;
+}

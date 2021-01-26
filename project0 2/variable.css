@@ -1,0 +1,21 @@
+td {
+  color: MidnightBlue; }
+
+div p {
+  text-align: center;
+  color: MidnightBlue; }
+div ol {
+  color: Indigo;
+  font-weight: bold; }
+
+.info {
+  font-size: 18px;
+  font-weight: bold;
+  border: 1px solid MidnightBlue;
+  padding: 10px;
+  margin: 10px; }
+
+.info {
+  background-color: LightGreen; }
+
+/*# sourceMappingURL=variable.css.map */
